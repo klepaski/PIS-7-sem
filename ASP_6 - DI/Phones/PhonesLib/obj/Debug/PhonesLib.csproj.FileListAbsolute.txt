@@ -1,0 +1,35 @@
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csprojAssemblyReference.cache
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csprojAssemblyReference.cache
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\ЮЛЯ\ПИС\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\ЮЛЯ\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb

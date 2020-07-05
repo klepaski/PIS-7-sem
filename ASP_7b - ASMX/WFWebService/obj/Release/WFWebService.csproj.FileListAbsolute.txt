@@ -1,0 +1,13 @@
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\bin\Release\WFWebService.exe.config
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\bin\Release\WFWebService.exe
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\bin\Release\WFWebService.pdb
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\bin\Release\Newtonsoft.Json.dll
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\bin\Release\Newtonsoft.Json.xml
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.Form1.resources
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.Properties.Resources.resources
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.csproj.GenerateResource.cache
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.csproj.CopyComplete
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.exe
+D:\ЮЛЯ\ASP_7b - ASMX\WFWebService\obj\Release\WFWebService.pdb

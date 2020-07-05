@@ -1,0 +1,20 @@
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.exe.config
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.exe
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.pdb
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.Form1.resources
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.Properties.Resources.resources
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csproj.GenerateResource.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.exe
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.pdb
+D:\ЮЛЯ\ASP_1\SendPostSum\bin\Debug\SendPostSum.exe.config
+D:\ЮЛЯ\ASP_1\SendPostSum\bin\Debug\SendPostSum.exe
+D:\ЮЛЯ\ASP_1\SendPostSum\bin\Debug\SendPostSum.pdb
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.Form1.resources
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.Properties.Resources.resources
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.csproj.GenerateResource.cache
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.exe
+D:\ЮЛЯ\ASP_1\SendPostSum\obj\Debug\SendPostSum.pdb

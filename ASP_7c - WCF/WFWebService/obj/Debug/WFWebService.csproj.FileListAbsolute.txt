@@ -1,0 +1,50 @@
+E:\Program Files\ASP\ASP7.2\WFWebService\bin\Debug\WFWebService.exe.config
+E:\Program Files\ASP\ASP7.2\WFWebService\bin\Debug\WFWebService.exe
+E:\Program Files\ASP\ASP7.2\WFWebService\bin\Debug\WFWebService.pdb
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.Form1.resources
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.Properties.Resources.resources
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.csproj.GenerateResource.cache
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.exe
+E:\Program Files\ASP\ASP7.2\WFWebService\obj\Debug\WFWebService.pdb
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.Form1.resources
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.Properties.Resources.resources
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.csproj.GenerateResource.cache
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.exe
+E:\Program Files\ASP\ASP7.3\WFWebService\obj\Debug\WFWebService.pdb
+E:\Program Files\ASP\ASP7.3\WFWebService\bin\Debug\WFWebService.exe.config
+E:\Program Files\ASP\ASP7.3\WFWebService\bin\Debug\WFWebService.exe
+E:\Program Files\ASP\ASP7.3\WFWebService\bin\Debug\WFWebService.pdb
+D:\3\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe.config
+D:\3\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe
+D:\3\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.pdb
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csprojAssemblyReference.cache
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Form1.resources
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Properties.Resources.resources
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.GenerateResource.cache
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.exe
+D:\3\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.pdb
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe.config
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.pdb
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csprojAssemblyReference.cache
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Form1.resources
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Properties.Resources.resources
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.GenerateResource.cache
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.exe
+D:\ЮЛЯ\ПИС\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.pdb
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe.config
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.exe
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\bin\Debug\WFWebService.pdb
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csprojAssemblyReference.cache
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Form1.resources
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.Properties.Resources.resources
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.GenerateResource.cache
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.exe
+D:\ЮЛЯ\ASP_7c - WCF\WFWebService\obj\Debug\WFWebService.pdb
